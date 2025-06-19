@@ -26,7 +26,7 @@ A simple and lightweight Node.js API that scrapes character and guild data from 
 
 ```bash
 git clone https://github.com/firzaaditiya/rucoy-online-api.git
-cd rucoy-scraper-api
+cd rucoy-online-api
 ```
 
 ### 2. Install Dependencies
