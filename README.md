@@ -174,6 +174,7 @@ curl http://localhost:3000/api/guild/Aa%20Gods%20Of%20Fearless%20Wd%20Aa
 ## 👤 Author
 
 **Firza Aditiya**
+
 **Rucoy Online: Faxzy**  
 🌐 [https://github.com/firzaaditiya](https://github.com/firzaaditiya)
 
