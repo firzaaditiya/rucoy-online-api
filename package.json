@@ -1,0 +1,31 @@
+{
+  "name": "rucoy-online-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Unofficial Rucoy Online API. for u guys who want to make a profile character wesbite or whatever u want.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firzaaditiya/rucoy-online-api.git"
+  },
+  "keywords": [
+    "rucoyonline",
+    "api",
+    "games-api"
+  ],
+  "author": "Firza Aditiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firzaaditiya/rucoy-online-api/issues"
+  },
+  "homepage": "https://github.com/firzaaditiya/rucoy-online-api#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
